@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\Unreal\\First_FPS\\First_FPS\\Source\\First_FPS\\First_FPS.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\First_FPS\\First_FPS\\.vscode\\compileCommands_First_FPS\\First_FPS.261.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\First_FPS\\First_FPS\\Source\\First_FPS\\First_FPS.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\First_FPS\\First_FPS\\.vscode\\compileCommands_First_FPS\\First_FPS.261.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\First_FPS\\First_FPS\\Source\\First_FPS\\First_FPS.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\First_FPS\\First_FPS\\.vscode\\compileCommands_First_FPS\\First_FPS.261.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\First_FPS\\First_FPS\\Source\\First_FPS\\First_FPSGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\First_FPS\\First_FPS\\.vscode\\compileCommands_First_FPS\\First_FPS.261.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\First_FPS\\First_FPS\\Source\\First_FPS\\First_FPSGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\First_FPS\\First_FPS\\.vscode\\compileCommands_First_FPS\\First_FPS.261.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.2\\Engine\\Source"
+	}
+]
