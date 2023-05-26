@@ -10,7 +10,8 @@
 				"D:/Unreal/First_FPS/First_FPS/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
 				"D:/Unreal/First_FPS/First_FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/8K/0OLPBOSZCPU1X7E3PCLCGF.uasset",
 				"D:/Unreal/First_FPS/First_FPS/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"D:/Unreal/First_FPS/First_FPS/Content/FirstPerson/Blueprints/BP_FirstPersonCamera.uasset"
+				"D:/Unreal/First_FPS/First_FPS/Content/FirstPerson/Blueprints/BP_FirstPersonCamera.uasset",
+				"D:/Unreal/First_FPS/First_FPS/Content/FirstPerson/Blueprints/FirstPersonBodyCameraBlueprint.uasset"
 			]
 		}
 	]
