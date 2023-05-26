@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal\\First_FPS\\First_FPS\\Source\\First_FPS\\First_FPS.Build.cs",
+		"D:\\Unreal\\First_FPS\\First_FPS\\Source\\First_FPS.Target.cs",
+		"D:\\Unreal\\First_FPS\\First_FPS\\Source\\First_FPSEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.0"
+}
