@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\Unreal\\First_FPS\\Shooter_Test\\Source\\Shooter_Test\\Shooter_Test.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\First_FPS\\Shooter_Test\\.vscode\\compileCommands_Shooter_Test\\Shooter_Test.261.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\First_FPS\\Shooter_Test\\Source\\Shooter_Test\\Shooter_Test.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\First_FPS\\Shooter_Test\\.vscode\\compileCommands_Shooter_Test\\Shooter_Test.261.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\First_FPS\\Shooter_Test\\Source\\Shooter_Test\\Shooter_Test.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\First_FPS\\Shooter_Test\\.vscode\\compileCommands_Shooter_Test\\Shooter_Test.261.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\First_FPS\\Shooter_Test\\Source\\Shooter_Test\\Shooter_TestGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\First_FPS\\Shooter_Test\\.vscode\\compileCommands_Shooter_Test\\Shooter_Test.261.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\First_FPS\\Shooter_Test\\Source\\Shooter_Test\\Shooter_TestGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\First_FPS\\Shooter_Test\\.vscode\\compileCommands_Shooter_Test\\Shooter_Test.261.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.2\\Engine\\Source"
+	}
+]

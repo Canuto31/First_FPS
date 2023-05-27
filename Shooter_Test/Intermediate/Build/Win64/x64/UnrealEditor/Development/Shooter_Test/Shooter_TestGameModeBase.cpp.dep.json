@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\first_fps\\shooter_test\\source\\shooter_test\\shooter_testgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\first_fps\\shooter_test\\intermediate\\build\\win64\\x64\\shooter_testeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\unreal\\first_fps\\shooter_test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shooter_test\\definitions.shooter_test.h",
+            "d:\\unreal\\first_fps\\shooter_test\\source\\shooter_test\\shooter_testgamemodebase.h",
+            "d:\\epicgames\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epicgames\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epicgames\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\epicgames\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\unreal\\first_fps\\shooter_test\\intermediate\\build\\win64\\unrealeditor\\inc\\shooter_test\\uht\\shooter_testgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

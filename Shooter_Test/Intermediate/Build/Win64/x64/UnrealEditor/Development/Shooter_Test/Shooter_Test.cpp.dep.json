@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\first_fps\\shooter_test\\source\\shooter_test\\shooter_test.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\first_fps\\shooter_test\\intermediate\\build\\win64\\x64\\shooter_testeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\unreal\\first_fps\\shooter_test\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shooter_test\\definitions.shooter_test.h",
+            "d:\\unreal\\first_fps\\shooter_test\\source\\shooter_test\\shooter_test.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Shooter_Test",
+			"Path": "D:\\Unreal\\First_FPS\\Shooter_Test\\Source\\Shooter_Test.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Shooter_TestEditor",
+			"Path": "D:\\Unreal\\First_FPS\\Shooter_Test\\Source\\Shooter_TestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
